@@ -1,0 +1,2 @@
+from MALANG import MONXTER
+MONXTER()
